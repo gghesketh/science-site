@@ -15,7 +15,7 @@ module.exports = {
     // List of PubMed IDs to include on the publication page. Delete this field
     // and/or all entires if you do not want the publication page.
     publications: [
-      31217594,
+      33060361,
       30554943,
       29395067,
       24255178,
