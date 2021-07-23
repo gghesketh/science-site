@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
     author: 'Geoffrey Hesketh',
-    description: 'Lysosomal control of anabolic-catabolic balance',
+    description: 'Lysosomal control of anabolic-catabolic balance test',
     siteUrl: 'https://gghesketh.github.io/science-site',
     title: 'Geoffrey Hesketh PhD',
     // List of link buttons to include on the landing image. Delete this field
