@@ -1,8 +1,8 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
-    author: 'Geoffrey Hesketh',
-    description: 'Lysosomal control of anabolic-catabolic balance test',
+    author: 'Geoffrey Hesketh PhD',
+    description: 'Lysosomal control of anabolic-catabolic balance',
     siteUrl: 'https://gghesketh.github.io/science-site',
     title: 'Geoffrey Hesketh PhD',
     // List of link buttons to include on the landing image. Delete this field
@@ -35,15 +35,23 @@ module.exports = {
       24643499,
       23650309,
       23104059,
+      21421555,
+      20167932,
+      19961855,
+      19797425,
+      19701097,
+      19237662,
+      19122180,
+      17434978,
+      12089186,
     ],
     // An array of links to display in the page footer. Include as many as you like
     // (not just the ones here). If either the link or text is missing,
     // it will not be shown. Delete this field and/or all entires to disable
     // footer links.
     footerLinks: [
-      { text: 'GitHub', link: 'https://github.com/knightjdr' },
-      { text: 'Google Scholar', link: 'https://scholar.google.ca/citations?user=M6Y_Y5cAAAAJ' },
-      { text: 'LinkedIn', link: 'https://www.linkedin.com/in/james-knight-174996156' },
+      { text: 'Google Scholar', link: 'https://scholar.google.ca/citations?user=tMBrIG4AAAAJ&hl=en' },
+      { text: 'Twitter', link: 'https://twitter.com/ghesketh' },
     ],
   },
   plugins: [

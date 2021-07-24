@@ -1,6 +1,7 @@
-Diogenes Teufelsdröckh, Professor of "Things in General" \
-[diogenes@wnw.edu](mailto:diogenes@weissnichtwo.edu)
+Geoffrey Hesketh PhD \
+[hesketh@lunenfeld.ca](mailto:hesketh@lunenfeld.ca)
 
-Weissnichtwo University\
-Weissnichtwo, Germany\
-tel: (xxx) xxxx-xxxx
+Lunenfeld-Tanenbaum Research Institute\
+Sinai Healh System\
+Toronto, ON, Canada\
+tel: (416) 586-4800 x8272
