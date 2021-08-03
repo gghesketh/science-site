@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/gatsby-starter-scientist',
+  pathPrefix: '/science-site',
   siteMetadata: {
     author: 'Geoffrey G. Hesketh PhD',
     description: 'Lysosomal control of cellular anabolic-catabolic balance',
