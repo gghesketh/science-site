@@ -3,8 +3,8 @@ title: Lysosome-driven growth in Ras-driven cancers
 image: ../../images/research/media_square.png
 order: 3
 ---
-Sed egestas egestas fringilla phasellus faucibus scelerisque eleifend donec. Eget felis eget nunc lobortis. Consequat nisl vel pretium lectus quam id leo in.\
+Oncogenic Ras-driven cancers, such as pancreatic cancer, are highly lethal with virtually no targeted therapies available. A major consequence of oncogenic Ras expression in cells is the constitutive activation of macropinocytosis (cellular "drinking"), allowing massive uptake and endolysosomal degradation of macromolecule-rich extracellular fluid. These **[lysosome-derived nutrients activate mTORC1 through a novel mechanism](https://science.sciencemag.org/content/370/6514/351 "Link to my recent paper in Science")**, and can fuel cancer cell growth in the nutrient-deprived tumour microenvironment.\
 \
-Cras sed felis eget velit aliquet sagittis id consectetur purus. Auctor urna nunc id cursus. Scelerisque eu ultrices vitae auctor eu augue ut lectus. Scelerisque eu ultrices vitae auctor eu.\
-\
-Orci eu lobortis elementum nibh. Id leo in vitae turpis massa sed elementum tempus. Vestibulum morbi blandit cursus risus at ultrices.
+**I will use a combination of BioID, genome-wide CRISPR screens, and hypothesis-driven cell biology to investigate mechanisms of mTORC1 activation by lysosome-derived nutrients and its contribution to Ras-driven cancer pathobiology.**
+</br>
+</br>
