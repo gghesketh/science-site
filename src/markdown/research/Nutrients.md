@@ -11,4 +11,4 @@ My extensive BioID screen investigating lysosomal system membrane trafficking an
 \
 **c) Mechanisms of nutrient-dependent regulation of gene expression.**\
 \
-Collectively, through these studies I aim to **illuminate how defects in lysosomal control of cellular anabolic-catabolic balance causes human disease.**
+Collectively, through these studies I aim to **illuminate how defects in lysosomal control of cellular anabolic-catabolic balance cause human disease.**
