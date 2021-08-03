@@ -1,4 +1,4 @@
-Geoffrey Hesketh PhD \
+Geoffrey G. Hesketh PhD \
 [hesketh@lunenfeld.ca](mailto:hesketh@lunenfeld.ca)
 
 Lunenfeld-Tanenbaum Research Institute\
