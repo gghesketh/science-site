@@ -1,9 +1,9 @@
 module.exports = {
-  pathPrefix: '/science-site',
+  pathPrefix: '',
   siteMetadata: {
     author: 'Geoffrey G. Hesketh PhD',
     description: 'Lysosomal control of cellular anabolic-catabolic balance',
-    siteUrl: 'https://gghesketh.github.io/science-site',
+    siteUrl: 'https://lysosome.ca',
     title: 'Geoffrey G. Hesketh PhD',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
