@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '',
   siteMetadata: {
-    author: 'The Hesketh Lab',
+    author: 'The Hesketh Lab @ Dalhousie University',
     description: 'Lysosomal control of cellular anabolic-catabolic balance',
     siteUrl: 'https://lysosome.ca',
     title: 'The Hesketh Lab',
@@ -10,6 +10,7 @@ module.exports = {
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
     primaryLinks: [
       'research',
+      'people',
       'contact',
     ],
     // List of PubMed IDs to include on the publication page. Delete this field

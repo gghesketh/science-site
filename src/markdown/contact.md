@@ -1,7 +1,7 @@
 Geoffrey G. Hesketh PhD \
-[hesketh@lunenfeld.ca](mailto:hesketh@lunenfeld.ca)
+[Geoffrey.Hesketh@Dal.ca](mailto:Geoffrey.Hesketh@Dal.ca)
 
 Department of Biochemistry & Molecular Biology\
 Dalhousie University\
 Halifax, NS, Canada\
-tel: (416) 586-4800 x8272
+tel: 902-494-3821
