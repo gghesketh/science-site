@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: '',
   siteMetadata: {
-    author: 'Geoffrey G. Hesketh PhD',
+    author: 'The Hesketh Lab',
     description: 'Lysosomal control of cellular anabolic-catabolic balance',
     siteUrl: 'https://lysosome.ca',
     title: 'The Hesketh Lab',
