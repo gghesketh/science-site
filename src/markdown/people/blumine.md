@@ -1,8 +1,8 @@
 ---
 email: student@lysosome.ca
 image: ../../images/people/blumine.png
-name: Blumine
+name: Your name here
 order: 1
-title: Student
+title: Graduate Student
 ---
 This can be you! Please get in touch.
