@@ -1,8 +1,8 @@
 ---
-email: blumine@wnw.edu
+email: student@lysosome.ca
 image: ../../images/people/blumine.png
 name: Blumine
-order: 2
-title: Postdoctoral fellow
+order: 1
+title: Student
 ---
-Malesuada fames ac turpis egestas sed tempus urna et pharetra. Dignissim diam quis enim lobortis scelerisque fermentum dui faucibus in. Aliquam sem fringilla ut morbi tincidunt augue interdum velit euismod. Sem fringilla ut morbi tincidunt augue interdum.
+This can be you! Please get in touch.

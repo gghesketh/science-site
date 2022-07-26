@@ -10,7 +10,7 @@ module.exports = {
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
     primaryLinks: [
       'research',
-      'people',
+      'opportunities',
       'contact',
     ],
     // List of PubMed IDs to include on the publication page. Delete this field
