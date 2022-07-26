@@ -1,1 +1,1 @@
-Potential students, please get in touch by **[sending me an email](mailto:Geoffrey.Hesketh@Dal.ca)**.\
+Potential students, please get in touch by **[sending me an email](mailto:Geoffrey.Hesketh@Dal.ca)**.
