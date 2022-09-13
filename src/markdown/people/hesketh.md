@@ -3,6 +3,6 @@ email: Geoffrey.Hesketh@Dal.ca
 image: ../../images/people/hesketh.png
 name: Geoffrey Hesketh PhD
 order: 1
-title: PI
+title: Principal Investigator
 ---
-It's just me and only me at the moment.
+I am an Assistant Professor in the Department of Biochemistry & Molecular Biology.
